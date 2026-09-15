@@ -1,1 +1,11 @@
-
+site_name: Windows Server 2025 System Administration 
+theme:
+  name: material
+nav:
+  - Description: description.md
+  - Objectives: objectives.md
+  - Technology: technology.md
+  - Network Topology: network-topology.md
+  - Create Virtual Machines: create-vms.md
+  - Windows Server Installation: installation.md
+  - Deploy AD DS & DNS: addns-dns.md
